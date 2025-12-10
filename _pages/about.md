@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "**About Me**
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-**About Me**
-
-My name is **Qingli Liu**. I'm a PhD candidate in Aeronautical and Aviation Engineering [AAE](https://www.polyu.edu.hk/aae/) at The Hong Kong Polytechnic University, supervised by [**Prof. Fan Li**](https://scholar.google.com/citations?user=HE77YDgAAAAJ&hl=en). I passed my doctoral defense in November 2025, and my research focuses on **AI-driven accident investigation in general aviation**. I am currently seeking **postdoctoral positions or faculty opportunities** in related areas.
+My name is **Qingli Liu**. I'm a PhD candidate in Sustainable Human-AI INteractions and Ergonomics Group [SHINE]([https://www.polyu.edu.hk/aae/](https://shineergo.wixsite.com/homepage)) at The Hong Kong Polytechnic University, supervised by [**Prof. Fan Li**](https://scholar.google.com/citations?user=HE77YDgAAAAJ&hl=en). I passed my doctoral defense in November 2025, and my research focuses on **AI-driven accident investigation in general aviation**. I am currently seeking **postdoctoral positions or faculty opportunities** in related areas.
 
 
 Getting started
